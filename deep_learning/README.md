@@ -1,1 +1,0 @@
-TensorFlow project done in TensorFlow 1.x. Incompatible with TensorFlow 2.x. Additional changes are required, such as changing the Placeholders to Constant and removing Sessions.
